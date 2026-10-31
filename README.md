@@ -10,13 +10,11 @@ Estou construindo um portfólio com projetos reais usando dados públicos brasil
 - **Python** (Pandas, Matplotlib)
 
 ## 📂 Projetos em destaque
-| Projeto | Pergunta que responde | Ferramentas |
-|---|---|---|
-| [Em breve] | | |
+Projetos em andamento.
 
 ## 🎯 Objetivo
 Conquistar minha primeira oportunidade como Analista de Dados.
 
 ## 📫 Contato
 - LinkedIn: www.linkedin.com/in/guilherme-henrique-guedes/
-- E-mail: guilhermehmguedes@gmail.com
+
