@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou Guilherme 👋
 
-<!--
-**guilhermehmguedes/guilhermehmguedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de dados em formação, focado em transformar dados em decisões.
+Estou construindo um portfólio com projetos reais usando dados públicos brasileiros.
 
-Here are some ideas to get you started:
+## 🛠️ Ferramentas que estou aprendendo e praticando
+- **SQL** (consultas, JOINs, subconsultas, window functions)
+- **Excel** (tabelas dinâmicas, fórmulas)
+- **Power BI** (dashboards)
+- **Python** (Pandas, Matplotlib)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos em destaque
+| Projeto | Pergunta que responde | Ferramentas |
+|---|---|---|
+| [Em breve] | | |
+
+## 🎯 Objetivo
+Conquistar minha primeira oportunidade como Analista de Dados.
+
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/guilherme-henrique-guedes/
+- E-mail: guilhermehmguedes@gmail.com
