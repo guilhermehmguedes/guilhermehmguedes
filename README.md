@@ -1,20 +1,19 @@
 # Olá, eu sou Guilherme 👋
 
-Analista de dados em formação, focado em transformar dados em decisões.
-Estou construindo um portfólio com projetos reais usando dados públicos brasileiros.
+Analista de dados em formação, com 2 anos de experiência em suporte técnico de TI. Gosto de transformar dados em decisões e estou construindo um portfólio de projetos práticos com SQL Server e Power BI.
 
-## 🛠️ Ferramentas que estou aprendendo e praticando
-- **SQL** (consultas, JOINs, subconsultas, window functions)
-- **Excel** (tabelas dinâmicas, fórmulas)
-- **Power BI** (dashboards)
-- **Python** (Pandas, Matplotlib)
+## 🛠️ Ferramentas
+- **SQL Server (T-SQL):** consultas, JOINs, CTEs, subconsultas e funções de janela
+- **Excel:** tabelas dinâmicas e fórmulas
+- **Power BI:** dashboards (em construção)
+- **Python (Pandas):** em estudo
 
 ## 📂 Projetos em destaque
-Projetos em andamento.
+- [Indicadores de Service Desk com SQL]: SLA, backlog, ranking de analistas e evolução mensal, com SQL Server e dados fictícios.
+- Dashboard de service desk no Power BI: em andamento.
 
 ## 🎯 Objetivo
-Conquistar minha primeira oportunidade como Analista de Dados.
+Conquistar minha primeira oportunidade como Analista de Dados júnior, unindo a visão de suporte técnico à análise de dados.
 
 ## 📫 Contato
-- LinkedIn: www.linkedin.com/in/guilherme-henrique-guedes/
-
+- LinkedIn: https://www.linkedin.com/in/guilherme-henrique-guedes/
