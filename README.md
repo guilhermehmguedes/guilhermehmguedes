@@ -9,7 +9,7 @@ Analista de dados em formação, com 2 anos de experiência em suporte técnico 
 - **Python (Pandas):** em estudo
 
 ## 📂 Projetos em destaque
-- [Indicadores de Service Desk com SQL]: SLA, backlog, ranking de analistas e evolução mensal, com SQL Server e dados fictícios.
+- [Indicadores de Service Desk com SQL](https://github.com/guilhermehmguedes/service-desk-sql-analytics): SLA, chamados em aberto, ranking de analistas e evolução mensal, com SQL Server e dados fictícios.
 - Dashboard de service desk no Power BI: em andamento.
 
 ## 🎯 Objetivo
